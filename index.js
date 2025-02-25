@@ -1,3 +1,4 @@
 console.log("Ola, Git!");
 console.log("primeiro Branch");
-console.log ("segunda alteração no Branch modulo1   2");
+console.log ("segunda alteração no Branch modulo1");
+console.log("merge");
